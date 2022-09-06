@@ -1,4 +1,4 @@
-# Hi, I'm Denis Litvinov
+# Hi, I'm Denis Litvinov 👋
 
 A task-driven professional with almost 3 years of experience 
 in web development primarily in Fintech industries. 
@@ -12,7 +12,7 @@ Proven ability to work both independently and as part of a team.
 ---
 
 <p>
-  <h2>How to reach me:</h2>
+  <h2>📫 How to reach me:</h2>
   <a href='mailto:den88lit@mail.ru'>den88lit@mail.ru</a>
 </p>
 
@@ -24,7 +24,7 @@ Proven ability to work both independently and as part of a team.
 
 ---
 
-## Skills
+## 💎 Skills
 - Participation in the full development cycle, from design, implementation, and testing to delivery,and maintenance
 - Features estimation, planning, and developing
 - Ensuring UI responsiveness for various devices and browsers
@@ -36,7 +36,7 @@ Proven ability to work both independently and as part of a team.
 
 ---
 
-## Technical Stack
+## 🛠 Technical Stack
 - HTML/CSS/SCSS/SASS
 - JavaScript/TypeScript
 - React/Redux/RxJS/Redux Toolkit
@@ -50,7 +50,7 @@ Proven ability to work both independently and as part of a team.
 
 ---
 
-## Work Experience
+## 🎯 Work Experience
 - **Pull Media** (*Fintech*)
 
    Empowering owners of alternative assets with new
@@ -67,12 +67,12 @@ business processes of the marketing Department.
 
 ---
 
-## Education
+## 📝 Education
 - Vitebsk State Technological University, Qualification awarded: *Degree in Economics and Enterprise Management*.
 
 ---
 
-## Language Skills
+## 🇬🇧 Language Skills
 - **English** - *Upper-Intermediate* (**B2**)
    
    I communicate with the team and the customer in English at daily meetings.
