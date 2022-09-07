@@ -1,1 +1,1 @@
-https://toTheDream.github.io/rsschool-cv/
+https://toTheDream.github.io/rsschool-cv/cv
